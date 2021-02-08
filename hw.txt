@@ -1,0 +1,8 @@
+Node 1: 0xC4b73De731DCB4C7A63F971c4AF6094a925000Fa (Congers17!)
+Node 2: 0xFbe6F15F25c3dfB7fB3ed1D04F2177Ad5a81C694 (Congers171)
+
+Network Name: newnet
+
+ChainID: 123
+
+enode://f20a7cf33ad655d83f862d3b0d51e33c9f5bbc4c38d60db7f41b1f68d5da87d3e7892247b1003d2ab7c59becda12fae7a5d2d1a1b8a5cf5a40d4d13f1f29dcce@127.0.0.1:30303
